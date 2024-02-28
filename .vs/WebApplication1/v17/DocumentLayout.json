@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA0E644-69ED-414B-8606-BF6507E2F0E0}|TestProject2\\TestProject2.csproj|c:\\users\\kolba\\downloads\\server\\webapplication1\\testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA0E644-69ED-414B-8606-BF6507E2F0E0}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725EB133-7D7C-4D6A-8A44-085290CA4A17}|WebApplication1\\WebApplication1.csproj|c:\\users\\kolba\\downloads\\server\\webapplication1\\webapplication1\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725EB133-7D7C-4D6A-8A44-085290CA4A17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725EB133-7D7C-4D6A-8A44-085290CA4A17}|WebApplication1\\WebApplication1.csproj|c:\\users\\kolba\\downloads\\server\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725EB133-7D7C-4D6A-8A44-085290CA4A17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725EB133-7D7C-4D6A-8A44-085290CA4A17}|WebApplication1\\WebApplication1.csproj|c:\\users\\kolba\\downloads\\server\\webapplication1\\webapplication1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725EB133-7D7C-4D6A-8A44-085290CA4A17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725EB133-7D7C-4D6A-8A44-085290CA4A17}|WebApplication1\\WebApplication1.csproj|c:\\users\\kolba\\downloads\\server\\webapplication1\\webapplication1\\rentcarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725EB133-7D7C-4D6A-8A44-085290CA4A17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\rentcarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725EB133-7D7C-4D6A-8A44-085290CA4A17}|WebApplication1\\WebApplication1.csproj|c:\\users\\kolba\\downloads\\server\\webapplication1\\webapplication1\\technical inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725EB133-7D7C-4D6A-8A44-085290CA4A17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\technical inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725EB133-7D7C-4D6A-8A44-085290CA4A17}|WebApplication1\\WebApplication1.csproj|c:\\users\\kolba\\downloads\\server\\webapplication1\\webapplication1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725EB133-7D7C-4D6A-8A44-085290CA4A17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\TestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\TestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject2\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:39:45.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\WebApplication1\\Class.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Class.cs",
+              "ToolTip": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\WebApplication1\\Class.cs",
+              "RelativeToolTip": "WebApplication1\\Class.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:10:16.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentCarRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\WebApplication1\\RentCarRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\RentCarRequest.cs",
+              "ToolTip": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\WebApplication1\\RentCarRequest.cs",
+              "RelativeToolTip": "WebApplication1\\RentCarRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:10:16.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\WebApplication1\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\User.cs",
+              "ToolTip": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\WebApplication1\\User.cs",
+              "RelativeToolTip": "WebApplication1\\User.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:10:16.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "technical inspection.cs",
+              "DocumentMoniker": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\WebApplication1\\technical inspection.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\technical inspection.cs",
+              "ToolTip": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\WebApplication1\\technical inspection.cs",
+              "RelativeToolTip": "WebApplication1\\technical inspection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:10:16.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:10:16.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\WebApplication1\\Car.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Car.cs",
+              "ToolTip": "C:\\Users\\kolba\\Downloads\\server\\WebApplication1\\WebApplication1\\Car.cs",
+              "RelativeToolTip": "WebApplication1\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:10:16.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
